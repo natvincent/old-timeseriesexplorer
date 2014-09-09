@@ -1,0 +1,65 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- build:css styles/vendor.css -->
+    <!-- bower:css -->
+    <!-- endbower -->
+    <!-- endbuild -->
+    <!-- build:css({.tmp,app}) styles/main.css -->
+    <link rel="stylesheet" href="styles/main.css">
+    <!-- endbuild -->
+  </head>
+  <body ng-app="pageApp">
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!-- Add your site or application content here -->
+    <div ng-controller="ChartController">
+    <chart width="600" height="300">
+        <!--areatimeseries id="future-ensemble-10-90" data=""></areatimeseries>
+        <areatimeseries id="future-ensemble-10-90" data=""></areatimeseries>
+        <timeseries id="future-ensemble-average" data="future-ensemble-average"></timeseries>
+        <!timeseries id="historical-ensemble-average" data="historical-ensemble-average"></timeseries-->
+        <timeseries id="historical" data="historical"></timeseries>
+        <timeseries id="future" data="future"></timeseries>
+        <timeseries id="historicalMean" data="historicalMean"></timeseries>
+        <timeseries id="futureMean" data="futureMean"></timeseries>
+    </chart>
+    <br/>
+    <select name="model-selection" ng-model="currentModel" ng-options="m for m in models"></select>
+    {{currentModel}}
+    </div>
+    
+    <div class="container" ng-view=""></div>
+
+    <!-- build:js scripts/vendor.js -->
+    <!-- bower:js -->
+    <script src="bower_components/es5-shim/es5-shim.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/json3/lib/json3.min.js"></script>
+    <script src="bower_components/d3/d3.js"></script>
+    <!-- endbower -->
+    <!-- endbuild -->
+
+        <!-- build:js({.tmp,app}) scripts/scripts.js -->
+        <script src="scripts/services/chartcreator.js"></script>
+        <script src="scripts/directives/chart.js"></script>
+        <script src="scripts/app.js"></script>
+        <script src="scripts/controllers/main.js"></script>
+        <script src="scripts/services/resources.js"></script>
+        <script src="scripts/services/models.js"></script>
+        <script src="scripts/services/dataFixer.js"></script>
+        <script src="scripts/services/testUrlBuilder.js"></script>
+        <!-- endbuild -->
+</body>
+</html>

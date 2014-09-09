@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Central Slopes",
+    "code": "CS",
+    "group": "NRM15"
+  },
+  {
+    "name": "Southern Slopes (Vic West)",
+    "code": "SSVW",
+    "group": "NRM15"
+  },
+  {
+    "name": "Murray Basin",
+    "code": "MB",
+    "group": "NRM15"
+  },
+  {
+    "name": "Southern Slopes (Tas East)",
+    "code": "SSTE",
+    "group": "NRM15"
+  },
+  {
+    "name": "Wet Tropics",
+    "code": "WT",
+    "group": "NRM15"
+  },
+  {
+    "name": "Southern Slopes (Tas West)",
+    "code": "SSTW",
+    "group": "NRM15"
+  },
+  {
+    "name": "Southern and SW Flatlands (West)",
+    "code": "SSWFW",
+    "group": "NRM15"
+  },
+  {
+    "name": "Southern and SW Flatlands (East)",
+    "code": "SSWFE",
+    "group": "NRM15"
+  },
+  {
+    "name": "Rangelands (North)",
+    "code": "RN",
+    "group": "NRM15"
+  },
+  {
+    "name": "Monsoonal North (East)",
+    "code": "MNE",
+    "group": "NRM15"
+  },
+  {
+    "name": "Monsoonal North (West)",
+    "code": "MNW",
+    "group": "NRM15"
+  },
+  {
+    "name": "East Coast (South)",
+    "code": "ECS",
+    "group": "NRM15"
+  },
+  {
+    "name": "Southern Slopes (Vic/NSW East)",
+    "code": "SSVE",
+    "group": "NRM15"
+  },
+  {
+    "name": "East Coast (North)",
+    "code": "ECN",
+    "group": "NRM15"
+  },
+  {
+    "name": "Rangelands (South)",
+    "code": "RS",
+    "group": "NRM15"
+  },
+  {
+    "name": "Northern Australia",
+    "code": "NA",
+    "group": "NRM4"
+  },
+  {
+    "name": "Rangelands",
+    "code": "RN",
+    "group": "NRM4"
+  },
+  {
+    "name": "Eastern Australia",
+    "code": "EA",
+    "group": "NRM4"
+  },
+  {
+    "name": "Southern Australia",
+    "code": "SA",
+    "group": "NRM4"
+  },
+  {
+    "name": "Central Slopes",
+    "code": "CS",
+    "group": "NRM8"
+  },
+  {
+    "name": "East Coast",
+    "code": "EC",
+    "group": "NRM8"
+  },
+  {
+    "name": "Murray Basin",
+    "code": "MB",
+    "group": "NRM8"
+  },
+  {
+    "name": "Monsoonal North",
+    "code": "MN",
+    "group": "NRM8"
+  },
+  {
+    "name": "Rangelands",
+    "code": "R",
+    "group": "NRM8"
+  },
+  {
+    "name": "Southern Slopes",
+    "code": "SS",
+    "group": "NRM8"
+  },
+  {
+    "name": "Southern and South-Western Flatlands",
+    "code": "SSWF",
+    "group": "NRM8"
+  },
+  {
+    "name": "Wet Tropics",
+    "code": "WT",
+    "group": "NRM8"
+  },
+  {
+    "name": "Central Slopes",
+    "code": "CS",
+    "group": "NRM8"
+  },
+  {
+    "name": "East Coast",
+    "code": "EC",
+    "group": "NRM8"
+  },
+  {
+    "name": "Murray Basin",
+    "code": "MB",
+    "group": "NRM8"
+  },
+  {
+    "name": "Monsoonal North",
+    "code": "MN",
+    "group": "NRM8"
+  },
+  {
+    "name": "Rangelands",
+    "code": "R",
+    "group": "NRM8"
+  },
+  {
+    "name": "Southern Slopes",
+    "code": "SS",
+    "group": "NRM8"
+  },
+  {
+    "name": "Southern and South-Western Flatlands",
+    "code": "SSWF",
+    "group": "NRM8"
+  },
+  {
+    "name": "Wet Tropics",
+    "code": "WT",
+    "group": "NRM8"
+  }
+]

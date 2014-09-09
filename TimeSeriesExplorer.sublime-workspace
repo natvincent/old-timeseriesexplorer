@@ -1,0 +1,739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"request",
+				"requestModelData"
+			],
+			[
+				"tree",
+				"treeView"
+			],
+			[
+				"an",
+				"angular"
+			],
+			[
+				"Con",
+				"controller"
+			],
+			[
+				"bo",
+				"bower_components"
+			],
+			[
+				"angul",
+				"angular-tree-control"
+			],
+			[
+				"ang",
+				"angular-tree-control"
+			],
+			[
+				"b",
+				"bower_components"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 4747,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/directives/chart.js",
+			"settings":
+			{
+				"buffer_size": 2798,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/scripts/services/chartcreator.js",
+			"settings":
+			{
+				"buffer_size": 7231,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/sample_data/historical_annual_tas_AUS.json",
+			"settings":
+			{
+				"buffer_size": 79357,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/sample_data/nrm_regions.json",
+			"settings":
+			{
+				"buffer_size": 2876,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/spec/controllers/main.js",
+			"settings":
+			{
+				"buffer_size": 10473,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects/csiro/TSE/package.json",
+		"/C/Projects/footy/footy32/3rdparty/Spring/Readme.txt",
+		"/C/Projects/dataprocessors/apply.html",
+		"/C/Projects/footy/footy32/3rdparty/Spring/Source/Base/Spring.pas",
+		"/C/Projects/footy/footy32/3rdparty/Spring/Source/Base/Spring.inc",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/app/index.html",
+		"/C/Projects/footy/footy32/webfrontend/MANIFEST",
+		"/C/Projects/Snap/lib/.hgsub",
+		"/C/Projects/janetrice.com.au/public_html/cgi-bin/pivot/templates/frontpage_template_2column.html",
+		"/C/Projects/janetrice.com.au/public_html/pivotx/templates/janetrice/_sub_header.html",
+		"/C/Projects/janetrice.com.au/public_html/link.js",
+		"/C/Projects/janetrice.com.au/public_html/pivotx/templates/janetrice/frontpage_janetrice.htm",
+		"/C/Users/Natalie/mercurial.ini",
+		"/C/Projects/janetrice.com.au/public_html/pivotx/templates/janetrice/_sub_blogmenu.html",
+		"/C/Projects/janetrice.com.au/public_html/pivotx/templates/janetrice/_sub_footer.html",
+		"/C/Projects/footy/footy32/webfrontend/spa/app/index.html",
+		"/C/Projects/footy/footy32/winfooty32/data/Footy32.ini",
+		"/C/Projects/footy/footy32/winfooty32/data/Footy32.log",
+		"/C/Projects/Snap from backup/.hg/key-cert.mail.footy.com.au.pem",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/app/styles/main.css",
+		"/C/Projects/csiro/TSE/app/index.html",
+		"/C/Projects/csiro/TSE/app/scripts/app.js",
+		"/C/Projects/csiro/TSE/app/bower_components/dangle/src/modules/area/area.js",
+		"/C/Users/Natalie/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/SpaceCadet.tmTheme",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/app/bower_components/angular-tree-control/angular-tree-control.js",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/.jshintrc",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/node_modules/grunt-contrib-jshint/Gruntfile.js",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/node_modules/grunt-contrib-jshint/tasks/jshint.js",
+		"/C/Users/Natalie/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/app/tree-control-attribute.html",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/app/bower_components/angular-tree-control/demo/tree-control-attribute.html",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/app/bower_components/angular-tree-control/.bower.json",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/bower.json",
+		"/C/Users/Natalie/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Natalie/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/Natalie/AppData/Roaming/Sublime Text 2/Packages/User/bh_core.sublime-settings",
+		"/C/Users/Natalie/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/N@.tmTheme",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/dump/angular-tree-control/angular-tree-control-master/angular-tree-control.js",
+		"/C/Projects/footy/utilities/FTSHtmlHelp/htmlhelpweb/dump/angular-tree-control/angular-tree-control-master/bower.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"'group'",
+			"'code'",
+			"'name'",
+			"selectNodeHead",
+			"click",
+			"[treecontrol]",
+			"$compile",
+			"Controller",
+			"ng-controller",
+			"classIfDefined",
+			"controller",
+			"compile",
+			"compule",
+			"treecontrol",
+			"\"",
+			"link",
+			"\"",
+			"app",
+			"css",
+			"word",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"\"group\"",
+			"\"code\"",
+			"\"name\"",
+			"tree-control",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 4747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1421,
+								1421
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 525.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/scripts/directives/chart.js",
+					"settings":
+					{
+						"buffer_size": 2798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								559,
+								559
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/scripts/services/chartcreator.js",
+					"settings":
+					{
+						"buffer_size": 7231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6716,
+								6716
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3638.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/sample_data/historical_annual_tas_AUS.json",
+					"settings":
+					{
+						"buffer_size": 79357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/sample_data/nrm_regions.json",
+					"settings":
+					{
+						"buffer_size": 2876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "test/spec/controllers/main.js",
+					"settings":
+					{
+						"buffer_size": 10473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9018,
+								9018
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3834.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.510416666667,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true
+}
